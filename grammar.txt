@@ -1,0 +1,9 @@
+a b c
+S A B C
+1 S -> AS
+2 S -> CA
+3 A -> AB
+4 A -> a
+5 C -> c
+6 C -> CB
+7 B -> b
