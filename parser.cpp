@@ -182,6 +182,11 @@ void cyk(string input)
         results << "NO" << endl;
     results.close();
 
+    for (int i = 0; i < len; i++)
+        delete[] table[i];
+
+    delete[] table;
+
     /*
     if (debug)
     {
